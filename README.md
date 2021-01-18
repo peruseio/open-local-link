@@ -9,7 +9,7 @@ This extension allows you to open a local file link.
 1. The file opens.
 
 # Chrome Store
-https://chrome.google.com/webstore/detail/nikfmfgobenbhmocjaaboihbeocackld
+PENDING
 
 # Todo
 - [x] Open by clicking the local file link.
